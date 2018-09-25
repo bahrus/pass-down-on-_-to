@@ -1,0 +1,19 @@
+{
+  "name": "pass-down-on-_-to",
+  "version": "0.0.0",
+  "description": "Attribute-based version of p-d.p-u",
+  "main": "pass-down-on-_-to.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bahrus/pass-down-on-_-to.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bahrus/pass-down-on-_-to/issues"
+  },
+  "homepage": "https://github.com/bahrus/pass-down-on-_-to#readme"
+}
